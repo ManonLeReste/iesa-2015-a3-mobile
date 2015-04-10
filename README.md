@@ -8,7 +8,7 @@
 * J'ai appris que le raccourci open . permet de nous situer dans le finder
 * J'ai appris ce qu'était un viewport
 * J'ai appris ce qu'était un splash screen (image pour faire patienter l'utilisateur avant que l'application se lance)
-* 
+* J'ai appris les raccourcis CMD + SHIFT + K (pour vider les caches sur XCode) et CMD + SHIFT + H (pour aller au menu du device)
 
 COMMANDES GIT
 
