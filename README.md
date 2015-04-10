@@ -7,7 +7,7 @@
 * J'ai appris le raccourci CTRL + L pour nettoyer le terminal
 * J'ai appris que le raccourci open . permet de nous situer dans le finder
 
-COMMANDE GIT
+COMMANDES GIT
 
 Création de projet : 
 * git init
