@@ -6,23 +6,23 @@
 * J'ai appris le raccourci CTRL + L pour nettoyer le terminal
 * J'ai appris que le raccourci open . permet de nous situer dans le finder
 
-* CRÉATION DE PROJET : 
+CRÉATION DE PROJET : 
 * git init
 
-* DÉVELOPPEMENT :
+DÉVELOPPEMENT :
 * modification
 * git status
 * git add / rm nomdefichier (rm : git supprime le fichier)
 * git commit -m "XX"
 
-* PARTAGE :
+PARTAGE :
 * git add remote
 * git push
 
 COPIE :
 * git clone
 
-*PARTICIPATION
+PARTICIPATION
 * Modification
 * git add / rm
 * git push
