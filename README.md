@@ -6,6 +6,9 @@
 * J'ai appris comment installer Cordova sur un Mac
 * J'ai appris le raccourci CTRL + L pour nettoyer le terminal
 * J'ai appris que le raccourci open . permet de nous situer dans le finder
+* J'ai appris ce qu'était un viewport
+* J'ai appris ce qu'était un splash screen (image pour faire patienter l'utilisateur avant que l'application se lance)
+* 
 
 COMMANDES GIT
 
