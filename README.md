@@ -12,20 +12,20 @@ COMMANDE GIT
 Création de projet : 
 * git init
 
-DÉVELOPPEMENT :
+Développement :
 * modification
 * git status
 * git add / rm nomdefichier (rm : git supprime le fichier)
 * git commit -m "XX"
 
-PARTAGE :
+Partage :
 * git add remote
 * git push
 
-COPIE :
+Copie :
 * git clone
 
-PARTICIPATION
+Participation :
 * modification
 * git add / rm
 * git push
