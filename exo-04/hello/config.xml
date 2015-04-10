@@ -11,14 +11,10 @@
     <access origin="*" />
     <engine name="ios" version="3.8.0" />
 
-    
+
 
      <platform name="ios">
               <!-- iPad -->
-              <icon src="resources/icones/icon-76.png" width="76" height="76" />
-              <icon src="res/ios/icon-76@2x.png" width="152" height="152" />
-              <!-- iPad -->
-              <icon src="res/ios/icon-72.png" width="72" height="72" />
-              <icon src="res/ios/icon-72@2x.png" width="144" height="144" />
+              <icon src="platforms/ios/HelloWorld/Resources/icons/soleil-76.png" width="76" height="76" />
      </platform>
 </widget>
