@@ -11,7 +11,7 @@
 * J'ai appris les raccourcis CMD + SHIFT + K (pour vider les caches sur XCode) et CMD + SHIFT + H (pour aller au menu du device)
 
 DIFFICULTÉS :
-* Je n'ai pas réussi à mettre les icônes avec la dernière version de XCode mais j'ai suivi comment faire avec la version installée sur les mac d'IESA
+* Je n'ai pas réussi à mettre les icônes avec la dernière version de XCode mais j'ai suivi comment faire avec la version installée sur les macs d'IESA
 
 
 COMMANDES GIT
