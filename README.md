@@ -15,6 +15,9 @@ COMMANDES GIT
 Création de projet : 
 * git init
 
+Création d'un dossier :
+* mkdir nomdufichier
+
 Développement :
 * modification
 * git status
