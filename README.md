@@ -1,6 +1,24 @@
 # iesa-2015-a3-mobile
 
+* Le vendredi 10 avril
 * J'ai appris ce qu'était un fichier natif
 * J'ai appris comment installer Cordova sur un Mac
 * J'ai appris le raccourci CTRL + L pour nettoyer le terminal
 * J'ai appris que le raccourci open . permet de nous situer dans le finder
+
+# Création de projet : 
+* git init
+# Développement :
+* modification
+* git status
+* git add / rm nomdefichier (rm : git supprime le fichier)
+* git commit -m "XX"
+# Partage :
+* git add remote
+* git push
+# Copie :
+* git clone
+# Participation
+* Modification
+* git add / rm
+* git push
