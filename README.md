@@ -19,7 +19,7 @@
 * git add remote
 * git push
 
-*COPIE :
+COPIE :
 * git clone
 
 *PARTICIPATION
