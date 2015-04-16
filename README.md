@@ -10,6 +10,10 @@
 * J'ai appris ce qu'était un splash screen (image pour faire patienter l'utilisateur avant que l'application se lance)
 * J'ai appris les raccourcis CMD + SHIFT + K (pour vider les caches sur XCode) et CMD + SHIFT + H (pour aller au menu du device)
 
+DIFFICULTÉS :
+* Je n'ai pas réussi à mettre les icônes avec la dernière version de XCode mais j'ai suivi comment faire avec la version installée sur les macs d'IESA
+
+
 COMMANDES GIT
 
 Création de projet : 
@@ -35,3 +39,7 @@ Participation :
 * modification
 * git add / rm
 * git push
+
+
+16 /04
+
